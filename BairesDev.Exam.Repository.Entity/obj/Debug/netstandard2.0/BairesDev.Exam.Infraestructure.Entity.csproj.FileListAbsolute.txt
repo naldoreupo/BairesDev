@@ -1,0 +1,16 @@
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\bin\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.deps.json
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\bin\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.dll
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\bin\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.pdb
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.AssemblyInfo.cs
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.dll
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.pdb
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\bin\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.deps.json
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\bin\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.dll
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\bin\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.pdb
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.AssemblyInfo.cs
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.dll
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\BairesDev.Exam.Repository.Entity\obj\Debug\netstandard2.0\BairesDev.Exam.Infraestructure.Entity.pdb

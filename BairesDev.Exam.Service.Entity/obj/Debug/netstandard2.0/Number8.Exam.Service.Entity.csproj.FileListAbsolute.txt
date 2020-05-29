@@ -1,0 +1,8 @@
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\bin\Debug\netstandard2.0\Number8.Exam.Service.Entity.deps.json
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\bin\Debug\netstandard2.0\Number8.Exam.Service.Entity.dll
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\bin\Debug\netstandard2.0\Number8.Exam.Service.Entity.pdb
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\obj\Debug\netstandard2.0\Number8.Exam.Service.Entity.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\obj\Debug\netstandard2.0\Number8.Exam.Service.Entity.AssemblyInfo.cs
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\obj\Debug\netstandard2.0\Number8.Exam.Service.Entity.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\obj\Debug\netstandard2.0\Number8.Exam.Service.Entity.dll
+D:\DOCUMENTOS\Proyectos\BairesDev\BairesDev\Number8.Exam.Service.Entity\obj\Debug\netstandard2.0\Number8.Exam.Service.Entity.pdb

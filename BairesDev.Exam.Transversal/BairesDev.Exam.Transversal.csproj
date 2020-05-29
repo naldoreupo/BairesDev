@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>BairesDev.Exam.Transversal</AssemblyName>
+    <RootNamespace>BairesDev.Exam.Transversal</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Build.Tasks.Core" Version="16.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BairesDev.Exam.Domain.Entity\BairesDev.Exam.Domain.Entity.csproj" />
+    <ProjectReference Include="..\BairesDev.Exam.Service.Entity\BairesDev.Exam.Service.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

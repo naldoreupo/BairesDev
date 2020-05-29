@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Moq" Version="4.13.0" />
+    <PackageReference Include="NSubstituteAutoMocker" Version="1.1.0" />
+    <PackageReference Include="nunit" Version="3.11.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Number8.Exam.Domain.Entity\Number8.Exam.Domain.Entity.csproj" />
+    <ProjectReference Include="..\Number8.Exam.Repository.Entity\Number8.Exam.Repository.Entity.csproj" />
+    <ProjectReference Include="..\Number8.Exam.Service.Entity\Number8.Exam.Service.Entity.csproj" />
+    <ProjectReference Include="..\Number8.Exam.Service\Number8.Exam.Service.csproj" />
+    <ProjectReference Include="..\Number8.Exam.Transversal\Number8.Exam.Transversal.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,420 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service\\BairesDev.Exam.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain.Entity\\BairesDev.Exam.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain.Entity\\BairesDev.Exam.Domain.Entity.csproj",
+        "projectName": "BairesDev.Exam.Domain.Entity",
+        "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain.Entity\\BairesDev.Exam.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\naldo\\.nuget\\packages\\",
+        "outputPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain\\BairesDev.Exam.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain\\BairesDev.Exam.Domain.csproj",
+        "projectName": "BairesDev.Exam.Domain",
+        "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain\\BairesDev.Exam.Domain.csproj",
+        "packagesPath": "C:\\Users\\naldo\\.nuget\\packages\\",
+        "outputPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj": {
+                "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj",
+        "projectName": "BairesDev.Exam.Service.Entity",
+        "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj",
+        "packagesPath": "C:\\Users\\naldo\\.nuget\\packages\\",
+        "outputPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service\\BairesDev.Exam.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service\\BairesDev.Exam.Service.csproj",
+        "projectName": "BairesDev.Exam.Service",
+        "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service\\BairesDev.Exam.Service.csproj",
+        "packagesPath": "C:\\Users\\naldo\\.nuget\\packages\\",
+        "outputPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain\\BairesDev.Exam.Domain.csproj": {
+                "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain\\BairesDev.Exam.Domain.csproj"
+              },
+              "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj": {
+                "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj"
+              },
+              "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj": {
+                "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.Extensions.Primitives": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "NSwag.Annotations": {
+              "target": "Package",
+              "version": "[13.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj",
+        "projectName": "BairesDev.Exam.Transversal",
+        "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\BairesDev.Exam.Transversal.csproj",
+        "packagesPath": "C:\\Users\\naldo\\.nuget\\packages\\",
+        "outputPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\naldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain.Entity\\BairesDev.Exam.Domain.Entity.csproj": {
+                "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Domain.Entity\\BairesDev.Exam.Domain.Entity.csproj"
+              },
+              "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj": {
+                "projectPath": "D:\\DOCUMENTOS\\Proyectos\\BairesDev\\BairesDev - Naldo Reupo-Musayon Gastulo\\BairesDev.Exam.Service.Entity\\BairesDev.Exam.Service.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Build.Tasks.Core": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
